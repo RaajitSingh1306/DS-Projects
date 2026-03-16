@@ -1,0 +1,2 @@
+ticker,start_date,end_date,start_price,end_price,cagr_pct,sharpe,max_dd_pct,max_dd_date,n_years
+TCS.NS,2014-01-01,2026-03-13,811.15,2410.5,9.34,0.229,-44.09,2026-03-13,12.19

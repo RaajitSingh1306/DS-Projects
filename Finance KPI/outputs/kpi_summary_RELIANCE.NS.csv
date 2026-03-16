@@ -1,0 +1,2 @@
+ticker,start_date,end_date,start_price,end_price,cagr_pct,sharpe,max_dd_pct,max_dd_date,n_years
+RELIANCE.NS,2014-01-01,2026-03-13,188.33,1380.7,17.75,0.514,-45.09,2020-03-23,12.19

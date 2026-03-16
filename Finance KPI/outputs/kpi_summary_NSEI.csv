@@ -1,0 +1,2 @@
+ticker,start_date,end_date,start_price,end_price,cagr_pct,sharpe,max_dd_pct,max_dd_date,n_years
+^NSEI,2014-01-02,2026-03-13,6221.15,23151.1,11.38,0.366,-38.44,2020-03-23,12.19
